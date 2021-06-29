@@ -1,0 +1,11 @@
+{
+  "name": "@rescript/std",
+  "version": "9.1.3",
+  "description": "The motiviation of this repo is that when Melange users want to share their library with JS users, the JS users don't need have  ReScript toolchain installed, this makes sharing code with JS users easier.",
+  "homepage": "https://github.com/diaozheng999/melange-stdlib#readme",
+  "keywords": [
+    "rescript",
+    "stdlib",
+    "functional programming"
+  ]
+}
